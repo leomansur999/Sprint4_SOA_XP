@@ -211,13 +211,6 @@ Após subir o projeto, acesse:
 
 ---
 
-## 👥 Autores
-
-**Roberto** — Desenvolvimento e integração  
-**Assistência técnica** — GPT-5 (OpenAI)
-
----
-
 ## 📄 Licença
 
 Este projeto é de uso acadêmico e não possui licença comercial.  
