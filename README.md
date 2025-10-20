@@ -210,8 +210,3 @@ Após subir o projeto, acesse:
 - Configuração compatível com OWASP ZAP para análise de vulnerabilidades.
 
 ---
-
-## 📄 Licença
-
-Este projeto é de uso acadêmico e não possui licença comercial.  
-Sinta-se livre para estudar, modificar e adaptar o código.
