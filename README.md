@@ -1,3 +1,9 @@
+# Grupo:
+## Leonardo Mansur - RM:551659
+## Gabriel Oliveira Rodrigues - RM:98565
+## Gabriel Riqueto - RM:98685
+## João Pedro de Souza Vieira - RM: 99805
+
 # 💼 XP Smart Advisor
 
 ## 🧠 Sobre o Projeto
